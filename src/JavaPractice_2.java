@@ -1,6 +1,6 @@
 public class JavaPractice_2 {
 	public static void main(String[] args) {
-		System.out.println("I like coding.");
+		System.out.println("please..");
 	}
 
 }
