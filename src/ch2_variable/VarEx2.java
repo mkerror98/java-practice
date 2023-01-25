@@ -9,6 +9,7 @@ public class VarEx2 {
 		int tmp;
 		System.out.println("x = " + x);
 		System.out.println("y = " + y);
+		System.out.println();
 		
 		tmp = x;
 		x = y;
