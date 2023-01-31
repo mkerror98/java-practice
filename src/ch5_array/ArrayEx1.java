@@ -23,7 +23,7 @@ public class ArrayEx1 {
 		for(int i=0; i<5; i++) {
 			System.out.printf("score[%d] = %d\n", i, score[i]);
 		}
-		System.out.printf("tmp = %d", tmp);
+		System.out.printf("tmp = %d", tmp); 
 	}
 
 }
