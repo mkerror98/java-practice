@@ -24,7 +24,7 @@ public class MemberCall {
         staticMethod1();
       //instanceMethod1();      // 에러. 클래스메서드에서는 인스턴스메서드를 호출할 수 없음.
       MemberCall c = new MemberCall();
-      c.instanceMethod();  // 인스턴스를 생성한 후에 호출 가능.
+      c.instanceMethod1();  // 인스턴스를 생성한 후에 호출 가능.
     }
 
     void instanceMethod2() {
