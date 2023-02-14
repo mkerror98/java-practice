@@ -14,4 +14,4 @@ public class StaticImportEx1 {
 }
 
 
-// static import문을 사용하면 static멤버를 호출할 때 클래스 이름을 ㅅ애략할 수 있다.
+// static import문을 사용하면 static멤버를 호출할 때 클래스 이름을 생략할 수 있다.
