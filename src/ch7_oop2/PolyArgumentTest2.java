@@ -68,5 +68,6 @@ public class PolyArgumentTest2 {
         b.buy(new Computer2());
         b.buy(new Audio());
         b.summary();
+
     }
 }
