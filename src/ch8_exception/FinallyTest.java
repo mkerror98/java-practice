@@ -5,7 +5,6 @@ public class FinallyTest {
         try {
             startInstall();
             copyFiles();
-            deleteTempFiles();
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
