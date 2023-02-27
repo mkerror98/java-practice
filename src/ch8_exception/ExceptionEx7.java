@@ -1,4 +1,4 @@
-package ch7_oop2;
+package ch8_exception;
 
 public class ExceptionEx7 {
     public static void main(String[] args) {
